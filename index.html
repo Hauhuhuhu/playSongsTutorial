@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/grid.css">
+    <link rel="stylesheet" href="./css/main.css">
+    <link rel="stylesheet" href="./fonts/fontawesome-free-6.5.2-web/css/all.min.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="header">
+        <div class="grid wide">
+            <div class="row">
+                <div class="header_body col l-12">
+                    <div class="header-titel">
+                        <div class="header-titel-header">Now playing:</div>
+                        <div class="header-titel-name">Hoc Lap Trình</div>
+                    </div>
+                    <div class="header-img"></div>
+                    <div class="header-controls">
+                        <div class="header-controls-icon repeatSong"><i class="fa-solid fa-rotate-right"></i></div>
+                        <div class="header-controls-icon"><i class="fas fa-step-backward backSong"></i></div>
+                        <div class="header-controls-icon header-controls-icon-play playMusic"><i class="fa-solid fa-play play"></i> <i class="fas fa-pause playing"></i></div>
+                        <div class="header-controls-icon"><i class="fas fa-step-forward nextSong"></i></div>
+                        <div class="header-controls-icon randomSong"><i class="fa-solid fa-arrows-rotate"></i></div>
+                    </div>
+                    <input id="progress" type="range" value="0" step="1" min="0" max="100">
+                    <audio id="audio" src=""></audio>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="music-list">
+        <div class="grid wide">
+            <div class="row">
+                <div class="music-list-body col l-12 m-12">
+                    <!-- <div class="music-list-item">
+                        <div class="music-list-item-img" style="background-image: url('');"></div>
+                        <div class="music-list-item-info">
+                            <h3 class="music-list-item-title">Song 1</h3>
+                            <div class="music-list-item-author">Tác giả 1</div>
+                        </div>
+                        <div class="music-more">
+                            <i class="fa-solid fa-ellipsis music-option"></i>
+                        </div>
+                    </div> -->
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="./main.js"></script>
+</body>
+</html>
