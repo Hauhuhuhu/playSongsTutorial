@@ -66,20 +66,28 @@ body {
 .header-controls-icon.active{
     color: var(--primary-color);
 }
-.header-controls-icon i {
-    opacity: 0.8;
+.header-controls-icon i:hover {
     cursor: pointer;
+    color: var(--primary-color);
+    border-color: var(--primary-color);
 }
 .header-controls-icon i:hover {
     opacity: 1;
 }
 .header-controls-icon-play {
-    /* background-color: var(--primary-color); */
-    /* color: #fff; */
     border-radius: 50%;
+    padding: 0;
+    margin-top: 6px;
+  
 }
 .header-controls-icon-play i {
-    opacity: 1;
+    display: block;
+    padding: 10px 14px;
+    border: 2px solid #000;
+    border-radius: 50%;
+}
+.header-controls-icon-play .play {
+    padding: 10px 12px 10px 14px;
 }
 
 #progress {
@@ -161,7 +169,24 @@ input[type="range"]::-webkit-slider-thumb {
 @media (max-width: 740px) {
     .header-controls-icon {
         font-size: 2.8em;
-        padding: 0.8em 1em;
+        padding: 0.8em 1.1em;
+    }
+    .header-controls-icon-play {
+        position: relative;
+        margin-top: 0;
+        /* margin-bottom: 12px; */
+        
+
+    }
+    .header-controls-icon-play i {
+        position: absolute;
+        transform: translateX(-50%) translateY(-25%);
+    }
+    .header-controls-icon-play .playing {
+        padding: 10px 16px;
+    }
+    .header-controls-icon-play .play {
+        padding: 10px 12px 10px 16px;
     }
     #progress {
         width: 70%;
