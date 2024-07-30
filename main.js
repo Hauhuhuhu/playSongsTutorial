@@ -41,20 +41,20 @@ const app = {
         {
             name: 'SummerTime',
             singer: 'K-391',
-            path: '/audio/song_1.mp3',
-            image: '/picture/img_1.jpg'
+            path: './audio/song_1.mp3',
+            image: './picture/img_1.jpg'
         },
         {
             name: 'Nevada',
             singer: 'Vicetone',
-            path: '/audio/song_2.mp3',
-            image: '/picture/img_2.jpg'
+            path: './audio/song_2.mp3',
+            image: './picture/img_2.jpg'
         },
         {
             name: 'Monody',
             singer: 'TheFatRat',
-            path: '/audio/song_3.mp3',
-            image: '/picture/img_3.jpg'
+            path: './audio/song_3.mp3',
+            image: './picture/img_3.jpg'
         },
         {
             name: 'Reality',
