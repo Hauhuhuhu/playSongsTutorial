@@ -11,8 +11,6 @@ const randomSongBtn = document.querySelector('.randomSong');
 const repeatSongBtn = document.querySelector('.repeatSong'); 
 const playList = document.querySelector('.music-list-body');
 
-
-
 const app = {
     CurrentIndex: 0,
     isPlaying: false,
@@ -23,21 +21,7 @@ const app = {
         this.config[key] = value;
         localStorage.setItem(PLAYER_STORAGE_KEY, JSON.stringify(this.config));
     },
-    // Sử dụng Fake API 
-    songs: [],
-    LoadApi: async function() {
-        var Api = 'http://localhost:3000/songs';
-        try {
-            const response = await fetch(Api);
-            const song = await response.json();
-            this.songs = song;
-        } catch (error) {
-            console.error('Error:', error);
-            // nếu API lỗi thì :))
-            this.songs = this.songs2;
-        }
-    },
-    songs2 : [
+    songs : [
         {
             name: 'SummerTime',
             singer: 'K-391',
@@ -310,35 +294,28 @@ const app = {
         });
     },
     start: function() {
-        // Sử dụng fake API để lấy dữ liệu
-        this.LoadApi().then(() =>{
-            // Gán cấu hình từ config vào ứng dụng
-            this.loadConfig();
-            // Hiển thị trạng thái repeat || random từ loadConfig
-            if (this.isRandom) {
-                randomSongBtn.classList.add('active');
-            }
-            if (this.isRepeat) {
-                repeatSongBtn.classList.add('active');
-            }
-            // Định nghĩa các thuộc tính cho object / Th này là trả về bài hát đầu tiên;
-            this.defineProperties();
-            // Lắng nghe và sử lý các sự kiện
-            this.handleEvents();
-            // Load bài hát đầu tiên
-            this.loadCurrentSong();
-            // Hiển thị danh sách bài hát
-            this.renderSong();
-            // Pause or Play audio khi ấn phím space
-            this.playWithKey();
-        });
-
+        // Gán cấu hình từ config vào ứng dụng
+        this.loadConfig();
+        // Hiển thị trạng thái repeat || random từ loadConfig
+        if (this.isRandom) {
+            randomSongBtn.classList.add('active');
+        }
+        if (this.isRepeat) {
+            repeatSongBtn.classList.add('active');
+        }
+        // Định nghĩa các thuộc tính cho object / Th này là trả về bài hát đầu tiên;
+        this.defineProperties();
+        // Lắng nghe và sử lý các sự kiện
+        this.handleEvents();
+        // Load bài hát đầu tiên
+        this.loadCurrentSong();
+        // Hiển thị danh sách bài hát
+        this.renderSong();
+        // Pause or Play audio khi ấn phím space
+        this.playWithKey();
     }
 }
-
 app.start();
-
-
 
 
 
