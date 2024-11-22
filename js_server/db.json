@@ -3,50 +3,50 @@
         {
             "name": "SummerTime",
             "singer": "K-391",
-            "path": "/audio/song_1.mp3",
-            "image": "/picture/img_1.jpg"
+            "path": "./audio/song_1.mp3",
+            "image": "./picture/img_1.jpg"
         },
         {
             "name": "Nevada",
             "singer": "Vicetone",
-            "path": "/audio/song_2.mp3",
-            "image": "/picture/img_2.jpg"
+            "path": "./audio/song_2.mp3",
+            "image": "./picture/img_2.jpg"
         },
         {
             "name": "Monody",
             "singer": "TheFatRat",
-            "path": "/audio/song_3.mp3",
-            "image": "/picture/img_3.jpg"
+            "path": "./audio/song_3.mp3",
+            "image": "./picture/img_3.jpg"
         },
         {
             "name": "Reality",
             "singer": "Lost Frequencies",
-            "path": "/audio/song_4.mp3",
-            "image": "/picture/img_4.jpg"
+            "path": "./audio/song_4.mp3",
+            "image": "./picture/img_4.jpg"
         },
         {
             "name": "Lemon Tree",
             "singer": "DJ DESA",
-            "path": "/audio/song_5.mp3",
-            "image": "/picture/img_5.jpg"
+            "path": "./audio/song_5.mp3",
+            "image": "./picture/img_5.jpg"
         },
         {
             "name": "My Love",
             "singer": "Westlife",
-            "path": "/audio/song_6.mp3",
-            "image": "/picture/img_6.jpg"
+            "path": "./audio/song_6.mp3",
+            "image": "./picture/img_6.jpg"
         },
         {
             "name": "Attension",
             "singer": "Charlie Puth",
-            "path": "/audio/song_7.mp3",
-            "image": "/picture/img_7.jpg"
+            "path": "./audio/song_7.mp3",
+            "image": "./picture/img_7.jpg"
         },
         {
             "name": "Monster",
             "singer": "Katie sky",
-            "path": "/audio/song_8.mp3",
-            "image": "/picture/img_8.jpg"
+            "path": "./audio/song_8.mp3",
+            "image": "./picture/img_8.jpg"
         }
     ]
 }
