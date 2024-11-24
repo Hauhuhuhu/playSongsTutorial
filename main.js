@@ -114,12 +114,18 @@ const app = {
             name: 'MixYTB',
             singer: 'YTB',
             path: './audio/mix_YTB.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.jfif' 
         },
         {
             name: 'TET',
             singer: 'YTB',
             path: './audio/tet.mp3',
+            image: './picture/poopy.jfif'
+        },
+        {
+            name: 'Daydream',
+            singer: 'YTB',
+            path: './audio/Daydream.mp3',
             image: './picture/poopy.jfif'
         },
     ],
