@@ -20,6 +20,7 @@ body {
     background-color: #fff;
     text-align: center;
     padding-bottom: 20px;
+    z-index: 10;
 }
 .header-controls {
     display: flex;
@@ -122,6 +123,7 @@ input[type="range"]::-webkit-slider-thumb {
 .music-list-item:hover {
     cursor: pointer;
     opacity: 0.8;
+    z-index: -10;
 }
 .music-list-item.active {
     background-color: var(--primary-color);

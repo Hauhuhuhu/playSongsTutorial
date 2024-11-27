@@ -42,509 +42,511 @@ const app = {
             name: 'SummerTime',
             singer: 'K-391',
             path: './audio/song_1.mp3',
-            image: './picture/img_1.jpg'
+            image: './picture/img_1.png'
         },
         {
             name: 'Nevada',
             singer: 'Vicetone',
             path: './audio/song_2.mp3',
-            image: './picture/img_2.jpg'
+            image: './picture/img_2.png'
         },
         {
             name: 'Monody',
             singer: 'TheFatRat',
             path: './audio/song_3.mp3',
-            image: './picture/img_3.jpg'
+            image: './picture/img_3.png'
         },
         {
             name: 'Reality',
             singer: 'Lost Frequencies',
             path: './audio/song_4.mp3',
-            image: './picture/img_4.jpg'
+            image: './picture/img_4.png'
         },
         {
             name: 'Lemon Tree',
             singer: 'DJ DESA',
             path: './audio/song_5.mp3',
-            image: './picture/img_5.jpg'
+            image: './picture/img_5.png'
         },
         {
             name: 'My Love',
             singer: 'Westlife',
             path: './audio/song_6.mp3',
-            image: './picture/img_6.jpg'
+            image: './picture/img_6.png'
         },
         {
             name: 'Attension',
             singer: 'Charlie Puth',
             path: './audio/song_7.mp3',
-            image: './picture/img_7.jpg'
+            image: './picture/img_7.png'
         },
         {
             name: 'Monster',
             singer: 'Katie sky',
             path: './audio/song_8.mp3',
-            image: './picture/img_8.jpg'
+            image: './picture/img_8.png'
         },
         {
             name: 'ACE',
             singer: 'ACE',
             path: './audio/ace.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Đừng quên tên anh',
             singer: 'Hoa Vinh',
             path: './audio/dqta.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Mix1',
             singer: 'Toan Thang',
             path: './audio/mix1.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Mix2',
             singer: 'Toan Thang',
             path: './audio/mix2.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'MixYTB',
             singer: 'YTB',
             path: './audio/mix_YTB.mp3',
-            image: './picture/poopy.jfif' 
+            image: './picture/poopy.png' 
         },
         {
             name: 'TET',
             singer: 'YTB',
             path: './audio/tet.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Daydream',
             singer: 'YTB',
             path: './audio/Daydream.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/1.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/2.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/3.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/4.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/5.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/6.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/7.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/8.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/9.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/10.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/11.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/12.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/13.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/14.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/15.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/16.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/17.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/18.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/19.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/20.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/21.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/22.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/23.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/24.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/25.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/26.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/27.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/28.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/29.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/30.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/31.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/32.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/33.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/34.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/35.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/36.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/37.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/38.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/39.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/40.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/41.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/42.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/43.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/44.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/45.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/46.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/47.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/48.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/49.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/50.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/51.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/52.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/53.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/54.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/55.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/56.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/57.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/58.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/59.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/60.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/61.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/62.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/63.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/64.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/65.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/66.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/67.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/68.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
         {
             name: 'Loopy',
             singer: 'Loopy',
             path: './audio/69.mp3',
-            image: './picture/poopy.jfif'
+            image: './picture/poopy.png'
         },
     ],
     renderSong: function(){
         var html = '';
+        const titleHtml = document.querySelector('title');
+        let faviconLink = document.querySelector("link[rel='icon']");
         this.songs.map(function(song, index) {
             html +=  
             `<div class="music-list-item ${index === app.CurrentIndex ? 'active': ''}" data-index = "${index}">
@@ -557,6 +559,10 @@ const app = {
                     <i class="fa-solid fa-ellipsis music-option"></i>
                 </div>
             </div>`
+            if(index === app.CurrentIndex) {
+                titleHtml.innerText = `${song.name}`;
+                faviconLink.setAttribute("href", `${song.image}`);
+            }
         });
         var htmls = document.querySelector('.music-list-body').innerHTML = html;
 
